@@ -1,0 +1,3 @@
+#lang racket
+
+(define file-in (open-input-file "foo"))
